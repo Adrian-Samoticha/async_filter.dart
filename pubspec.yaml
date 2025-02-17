@@ -1,7 +1,7 @@
 name: async_filter
 description: A library for filtering lists, sets, and maps asynchronously.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Adrian-Samoticha/async_filter.dart
 
 environment:
   sdk: ^3.6.0
